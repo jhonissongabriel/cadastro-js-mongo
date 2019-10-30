@@ -1,2 +1,2 @@
 # cadastro-sab
-Sistema de cadastro de moradores
+Sistema Web de cadastro de moradores utilizando Javascript e MongoDb.
