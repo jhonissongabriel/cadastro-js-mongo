@@ -20,7 +20,7 @@
     "fragment-cache": "^0.2.1",
     "get-stream": "^3.0.0",
     "get-value": "^2.0.6",
-    "glob-parent": "^3.1.0",
+    "glob-parent": "^5.1.2",
     "global-dirs": "^0.1.1",
     "got": "^6.7.1",
     "graceful-fs": "^4.2.3",
